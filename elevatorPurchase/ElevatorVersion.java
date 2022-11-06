@@ -7,7 +7,7 @@ public class ElevatorVersion {
     public void version(){
         int option;
         ElevatorVersion obj2 = new ElevatorVersion();
-        System.out.println("selct the down listed options");
+        System.out.println("Please select the version of purchase");
         System.out.println("low cost");
         System.out.println("premium");
         Scanner input2 = new Scanner(System.in);
